@@ -1,0 +1,10 @@
+#+TITLE: Euclidean Space
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: "Flat Space" "Cartesian Space"
+#+ROAM_TAGS:
+#+CREATED: [2021-03-27 Sat 11:02]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:41:41]
+
+
+
+A Euclidean Space is a finite-dimentional Vector Space over reals \(\mathbb{R}\). Generally speaking, all dimensions of a euclidean space is isomorphic in nature.

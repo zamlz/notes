@@ -1,0 +1,9 @@
+#+TITLE: Getting Things Done Framework
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: "GTD Framework" "GTD Method"
+#+ROAM_TAGS:
+#+CREATED: [2021-03-27 Sat 09:04]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:43:54]
+
+* Useful Resources
+- [[https://hamberg.no/gtd][https://hamberg.no/gtd]]

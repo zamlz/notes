@@ -1,0 +1,11 @@
+#+TITLE: Linear Algebra
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-03-27 Sat 11:02]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:39:30]
+
+Linear Algebra is a brach of Mathematics concerning with linear equations such as
+\[
+a_1x_1 + \dots + a_nx_n = b
+\]

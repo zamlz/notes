@@ -1,0 +1,6 @@
+#+TITLE: Cross Protocol Scripting
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: COMPUTER_SECURITY
+#+CREATED: [2021-03-27 Sat 09:41]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:40:30]

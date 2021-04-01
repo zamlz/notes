@@ -1,0 +1,8 @@
+#+TITLE: Deep Learning
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
+#+CREATED: [2021-03-29 Mon 13:01]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:41:50]
+
+Deep Learning is a Paradigm of [[file:machine_learning.org][Machine Learning]] that focuses on using Neural Networks and their variants for learning from data.

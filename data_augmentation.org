@@ -1,0 +1,8 @@
+#+TITLE: Data Augmentation
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-03-29 Mon 12:59]
+#+LAST_MODIFIED: [2021-03-29 Mon 14:58:04]
+
+Data Augmentation is the process of transforming existing data with domain-specific operations (crop, rotations when images are typically concerned) to create more data for [[file:machine_learning.org][Machine Learning]] models to learn from.

@@ -1,0 +1,8 @@
+#+TITLE: Solar System
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: ASTRONOMY
+#+CREATED: [2021-03-27 Sat 09:44]
+#+LAST_MODIFIED: [2021-03-30 Tue 12:39:54]
+
+Solar system is home to many planets. One of them being [[file:planet_earth-20210327092650.org][Planet Earth]].
