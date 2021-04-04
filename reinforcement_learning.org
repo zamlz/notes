@@ -3,7 +3,7 @@
 #+ROAM_ALIAS: RL
 #+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
 #+CREATED: [2021-04-03 Sat 19:28]
-#+LAST_MODIFIED: [2021-04-03 Sat 22:16:05]
+#+LAST_MODIFIED: [2021-04-03 Sat 22:28:33]
 
 #+DOWNLOADED: screenshot @ 2021-04-03 22:13:22
 [[file:data/rl_agent_environment_loop.png]]
@@ -11,7 +11,7 @@
 /Image taken from Wikipedia/
 #+end_quote
 
-/Many of these notes were created from [[file:../talks/david_silver_s_reinforcement_learning_course.org][David Silver's Reinforcement Learning Course]]/
+/Many of these notes were created from [[file:../bookmarks/david_silver_s_reinforcement_learning_course.org][David Silver's Reinforcement Learning Course]]/
 
 * What is Reinforcement Learning?
 Reinforcement Learning (RL) is study of the science of decision making. The main differences of RL from other [[file:machine_learning.org][Machine Learning]] paradigms is that there is no supervisor to tell the algorithm what is right or wrong, we only have the reward. This reward signal is also not instantaneous. The other key difference is that the agent is actively changing the data that it sees (it is i.i.d.).
