@@ -1,0 +1,17 @@
+#+TITLE: RL Environment
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: Environment
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
+#+CREATED: [2021-04-03 Sat 20:49]
+#+LAST_MODIFIED: [2021-04-03 Sat 21:12:21]
+
+Likewise the environment at timestep \(t\) :
+- recieves action \(a_t\)
+- emits observation \(o_t\)
+- emits reward \(r_t\)
+
+* Environment State
+
+The environment state \(S^{e}_{t}\) is the environments private representation. This could be all the internal variables inside the Atari game that agent cannot see. The RL algorithms can not depend on these numbers as it does not have access to this information!
+
+This state however is what is used to generate the observation \(o_t\) and reward \(r_t\) however.

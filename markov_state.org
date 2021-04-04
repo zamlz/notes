@@ -1,0 +1,12 @@
+#+TITLE: Markov State
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-04-03 Sat 20:20]
+#+LAST_MODIFIED: [2021-04-03 Sat 20:26:56]
+
+A State is said to be Markov if the Markove property holds:
+
+\[\mathbb{P}[S_{t+1} | S_t] = \mathbb{P}[S_{t+1} | S_1, \dots, S_t]\]
+
+This formula encapsulates the idea that *the future is independent of the past given the present*. This is pretty powerful idea since all the prior state information except for the present is needed.

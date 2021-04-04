@@ -1,0 +1,20 @@
+#+TITLE: Reward Signal
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: Reward
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE NEUROSCIENCE RL
+#+CREATED: [2021-04-03 Sat 20:45]
+#+LAST_MODIFIED: [2021-04-03 Sat 22:11:29]
+
+The goal of the [[file:rl_agent.org][RL Agent]] is to get as much reward as possible. At every timestep, the [[file:rl_agent.org][RL Agent]] gets \(R_t\) as a scalar feedback signal from the [[file:rl_environment.org][Environment]] and so we wish to maximize the cumulative sum of this signal.
+
+This is the reward hypothesis:
+
+#+begin_quote
+All goals can be described by the maximization of expected cumulative reward
+#+end_quote
+
+/"Is this statement really valid though?"/ David Silver asks...
+
+We can define the reward to be given at any point. We can give the +ve/-ve reward after every action or after a sequence of actions. In even more extreme cases, we can give reward at the end of the game (if we win or loose in chess for example). Another strategy is simply giving reward equivalent to the change in score of a game. Defining a reward function actually turns to be a challenging task in its own right for RL.
+
+Because of the nature of rewards, they can be delayed. We cannot be greedy and look for short term rewards. It might be better to forgo short term rewards and instead get a much larger reward in the future.

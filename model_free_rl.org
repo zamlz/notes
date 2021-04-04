@@ -1,0 +1,8 @@
+#+TITLE: Model-Free RL
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
+#+CREATED: [2021-04-03 Sat 21:57]
+#+LAST_MODIFIED: [2021-04-03 Sat 21:59:08]
+
+A paradigm of [[file:reinforcement_learning.org][Reinforcement Learning]] that makes use of only a [[file:policy_function.org][Policy Function]] and [[file:value_function.org][Value Function]] that does not concern itself with learning the dynamics of the [[file:rl_environment.org][RL Environment]] with an internal [[file:environment_model.org][Environment Model]].

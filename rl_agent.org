@@ -1,0 +1,53 @@
+#+TITLE: RL Agent
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: Agent
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
+#+CREATED: [2021-04-03 Sat 20:48]
+#+LAST_MODIFIED: [2021-04-03 Sat 22:17:42]
+#+DOWNLOADED: screenshot @ 2021-04-03 20:00:42
+
+[[file:data/rl_agent_brain.png]]
+
+At every step, our agent sees the [[file:rl_environment.org][RL Environment]] and [[file:reward_signal.org][Reward Signal]] and must make an action. /The agent can only make actions which the [[file:rl_environment.org][RL Environment]] exposes./
+
+The agent at each timestep \(t\) :
+- performance action \(a_t\)
+- recieves new observation \(o_t\)
+- recieves new reward \(r_t\)
+
+* Agent History
+
+As the agent will get those values at every timestep, we can define the history to be a sequence of observations, actions and rewards that the agent has seen so far.
+
+\[H_t = a_1, o_1, r_1, \dots, a_t, o_t, r_t\]
+
+(All observations up to time \(t\))
+
+* Agent State
+
+The Agent will take a look at this history in order to make a decision. However the history is really not that useful. There can be far too much data. Instead it would be better if we could create a *State* that encapsulates the history of the system up to that point. Formally,
+
+\[S_t = f(H_t)\]
+
+The function \(f\) here is simply a mapping from \(H_t\) to \(S_t\). It is up to us to design this mapping.
+
+The agent can learn its own state \(S^a_t\) built from what its seen. We build this from \(H_t\) since this is all data that is given to the agent. We will use this state to make deicions.
+
+* Major Components of the RL Agent
+
+The agent typicallyl includes the following pieces:
+- [[file:policy_function.org][Policy Function]]
+- [[file:value_function.org][Value Function]]
+- [[file:environment_model.org][Environment Model]]
+
+The agent doesn't have to make use of all of these components, but will typically use some of them. We can taxonomize different Agents based on which components they have. They can have the following types:
+- [[file:value_based_agent.org][Value Based Agent]]
+- [[file:policy_based_agent.org][Policy Based Agent]]
+- [[file:actor_critic_agent.org][Actor-Critic Agent]]
+
+Each of these agents can now have an internal [[file:environment_model.org][Environment Model]].
+- [[file:model_free_rl.org][Model-Free RL]]
+- [[file:model_based_rl.org][Model-Based RL]]
+
+#+DOWNLOADED: screenshot @ 2021-04-03 22:01:16
+[[file:data/rl_agent_types.png]]

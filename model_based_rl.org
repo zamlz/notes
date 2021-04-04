@@ -1,0 +1,8 @@
+#+TITLE: Model-Based RL
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-04-03 Sat 21:59]
+#+LAST_MODIFIED: [2021-04-03 Sat 22:00:17]
+
+A paradigm of [[file:reinforcement_learning.org][Reinforcement Learning]] that uses a [[file:policy_function.org][Policy Function]] (and/or) a [[file:value_function.org][Value Function]] and uses an [[file:environment_model.org][Environment Model]] to look ahead in order to make a decision.

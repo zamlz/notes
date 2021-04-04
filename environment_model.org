@@ -1,0 +1,12 @@
+#+TITLE: Environment Model
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
+#+CREATED: [2021-04-03 Sat 21:27]
+#+LAST_MODIFIED: [2021-04-03 Sat 21:45:00]
+
+An environment model is a model that predicts what an [[file:rl_environment.org][RL Environment]] will do next. As we deal with [[file:markov_decision_process.org][Markov Decision Process]]es, we can model the dynamics of the environment my learning the state transitions and reward function. These are formally defined below.
+
+\[P^a_{ss'} = \mathbb{P}[S_{t+1} = s' | S_t = a, A_t = a]\]
+
+\[R^a_s = \mathbb{E}[R_{t+1} | S_t = s, A_t = a]\]

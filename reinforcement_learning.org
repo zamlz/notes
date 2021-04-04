@@ -1,0 +1,32 @@
+#+TITLE: Reinforcement Learning
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: RL
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
+#+CREATED: [2021-04-03 Sat 19:28]
+#+LAST_MODIFIED: [2021-04-03 Sat 22:16:05]
+
+#+DOWNLOADED: screenshot @ 2021-04-03 22:13:22
+[[file:data/rl_agent_environment_loop.png]]
+#+begin_quote
+/Image taken from Wikipedia/
+#+end_quote
+
+/Many of these notes were created from [[file:../talks/david_silver_s_reinforcement_learning_course.org][David Silver's Reinforcement Learning Course]]/
+
+* What is Reinforcement Learning?
+Reinforcement Learning (RL) is study of the science of decision making. The main differences of RL from other [[file:machine_learning.org][Machine Learning]] paradigms is that there is no supervisor to tell the algorithm what is right or wrong, we only have the reward. This reward signal is also not instantaneous. The other key difference is that the agent is actively changing the data that it sees (it is i.i.d.).
+
+* Example of Reinforcement Learning Problems
+- Stunt Manoeuvers in a Helicoptor
+- Defeat the world champion at Backgammon or Go
+- Make a humanoid robot walk
+- Play atari games better than humans
+
+A lot of RL is generally applied to games, but it doesn't have to be. Games are generally very difficult forms of environments.
+
+* Fundamental Concepts
+- [[file:reward_signal.org][Reward Signal]]
+- [[file:rl_agent.org][RL Agent]]
+- [[file:rl_environment.org][RL Environment]]
+- [[file:markov_decision_process.org][Markov Decision Process]]
+- [[file:partially_observable_markov_decision_process.org][Partially Observable Markov Decision Process]]

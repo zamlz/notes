@@ -1,0 +1,10 @@
+#+TITLE: Partially Observable Markov Decision Process
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS: POMDP "Partially Observable Environment"
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
+#+CREATED: [2021-04-03 Sat 20:36]
+#+LAST_MODIFIED: [2021-04-03 Sat 21:25:32]
+
+An [[file:rl_environment.org][Environment]] where the [[file:rl_agent.org][Agent]] is not able to see the true state information is a partially observable environment (POMDP).
+
+In these scenarios, it cannot be guaranteed that the agent state is a [[file:markov_state.org][Markov State]].
