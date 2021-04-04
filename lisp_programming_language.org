@@ -1,0 +1,6 @@
+#+TITLE: Lisp Programming Language
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-04-04 Sun 10:15]
+#+LAST_MODIFIED: [2021-04-04 Sun 10:15:17]

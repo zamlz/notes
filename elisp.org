@@ -1,6 +1,0 @@
-#+TITLE: Elisp
-#+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: "Emacs Lisp"
-#+ROAM_TAGS: SOFTWARE EMACS
-#+CREATED: [2021-04-03 Sat 10:22]
-#+LAST_MODIFIED: [2021-04-03 Sat 10:22:22]
