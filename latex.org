@@ -4,10 +4,10 @@
 #+ROAM_TAGS: SOFTWARE
 #+AUTHOR: Amlesh Sivanantham (zamlz)
 #+CREATED: [2021-03-27 Sat 09:53]
-#+LAST_MODIFIED: [2021-03-27 Sat 09:59:45]
+#+LAST_MODIFIED: [2021-04-04 Sun 19:55:10]
 
 #+DOWNLOADED: screenshot @ 2021-03-27 09:55:03
-[[file:data/2021-03-27_09-55-03_screenshot.png]]
+[[file:data/latex_lang_logo.png]]
 
 LaTeX is a powerful typesetting system. Although I've used it raw for many years, it is definetly a pain to use at times because of the nature of the language. In recent years, I have started to look for downstream solutions that would use Languages like Markdown or Org to replace the complexity of the LaTex, but ultimately use it as a backend when generating the PDFs.
 

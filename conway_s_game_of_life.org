@@ -1,0 +1,6 @@
+#+TITLE: Conway's Game of Life
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
+#+CREATED: [2021-04-04 Sun 15:19]
+#+LAST_MODIFIED: [2021-04-04 Sun 15:21:37]

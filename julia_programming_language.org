@@ -4,7 +4,7 @@
 #+ROAM_TAGS: SOFTWARE PROGRAMMING
 #+ROAM_KEY: https://julialang.org/
 #+CREATED: [2021-03-27 Sat 09:16]
-#+LAST_MODIFIED: [2021-03-27 Sat 09:18:50]
+#+LAST_MODIFIED: [2021-04-04 Sun 19:54:28]
 
 #+DOWNLOADED: screenshot @ 2021-03-27 09:18:28
-[[file:data/2021-03-27_09-18-28_screenshot.png]]
+[[file:data/julia_lang_logo.png]]

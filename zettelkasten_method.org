@@ -1,0 +1,8 @@
+#+TITLE: Zettelkasten Method
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+CREATED: [2021-03-27 Sat 00:15]
+#+LAST_MODIFIED: [2021-04-04 Sun 19:51:17]
+
+A method of notetaking

@@ -1,0 +1,6 @@
+#+TITLE: Turing Complete
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: COMPUTER_SCIENCE
+#+CREATED: [2021-04-04 Sun 15:23]
+#+LAST_MODIFIED: [2021-04-04 Sun 15:24:17]
