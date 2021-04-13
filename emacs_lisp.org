@@ -4,11 +4,13 @@
 #+ROAM_TAGS: SOFTWARE EMACS
 #+ROAM_KEY: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 #+CREATED: [2021-04-03 Sat 10:22]
-#+LAST_MODIFIED: [2021-04-12 Mon 09:03:09]
+#+LAST_MODIFIED: [2021-04-13 Tue 08:28:55]
 
 Elisp is a dialect of the [[file:lisp_programming_language.org][Lisp Programming Language]] that is used to create the integrated environment of [[file:../config/emacs.org][GNU/Emacs]]. It is a fully fledged programming language and is desgined to make the editor extensible to any degree.
 
 * Useful Resources
+- [[https://alhassy.github.io/ElispCheatSheet/][Elisp Cheat Sheet]]
+
 * Tips and Tricks
 ** Understanding the difference between ~(list ...)~, ~`~, and ~'~
 The following methods are similar but will produce slightly different results. When you use ~(list a b c)~, elisp will try to resolve the values of ~a~, ~b~, and ~c~. Instead if you want these to be symbols, you must prefix them with the ~'~. Here is quick example that covers all the different uses.
