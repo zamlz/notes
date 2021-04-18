@@ -1,0 +1,6 @@
+#+TITLE: Plain Text Accounting
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-04-16 Fri 21:10]
+#+LAST_MODIFIED: [2021-04-16 Fri 21:10:19]
