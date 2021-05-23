@@ -3,12 +3,12 @@
 #+ROAM_ALIAS: RL
 #+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
 #+CREATED: [2021-04-03 Sat 19:28]
-#+LAST_MODIFIED: [2021-04-03 Sat 22:28:33]
+#+LAST_MODIFIED: [2021-05-23 Sun 11:55:31]
 
 #+DOWNLOADED: screenshot @ 2021-04-03 22:13:22
 [[file:data/rl_agent_environment_loop.png]]
 #+begin_quote
-/Image taken from Wikipedia/
+Image taken from Wikipedia
 #+end_quote
 
 /Many of these notes were created from [[file:../bookmarks/david_silver_s_reinforcement_learning_course.org][David Silver's Reinforcement Learning Course]]/
