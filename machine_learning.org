@@ -3,7 +3,7 @@
 #+ROAM_ALIAS:
 #+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-03-29 Mon 13:01]
-#+LAST_MODIFIED: [2021-05-23 Sun 14:05:09]
+#+LAST_MODIFIED: [2021-05-23 Sun 14:11:21]
 
 * What is it
-Study of computer algorithms that improve through experience and by the use of data.
+Study of computer algorithms that improve through experience and by the use of data. This branch of study falls under [[file:artificial_intelligence.org][Artificial Intelligence]].

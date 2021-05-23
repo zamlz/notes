@@ -3,6 +3,6 @@
 #+ROAM_ALIAS:
 #+ROAM_TAGS:
 #+CREATED: [2021-04-18 Sun 13:29]
-#+LAST_MODIFIED: [2021-04-18 Sun 13:30:34]
+#+LAST_MODIFIED: [2021-05-23 Sun 14:13:30]
 
-Computational Neuroscience is a subfield of [[file:neuroscience.org][Neuroscience]] that focuses on modelling neuroscience using [[file:computer_science.org][Computer Science]].
+Computational Neuroscience is a subfield of [[file:neuroscience.org][Neuroscience]] that focuses on modelling neuroscience using [[file:computer_science.org][Computer Science]]. There is also some focus on [[file:artificial_intelligence.org][Artificial Intelligence]] as the research areas can also focus on simulating behaviour of the brain.
