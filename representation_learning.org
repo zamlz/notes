@@ -1,0 +1,15 @@
+#+TITLE: Representation Learning
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
+#+CREATED: [2021-05-23 Sun 13:50]
+#+LAST_MODIFIED: [2021-05-23 Sun 14:00:45]
+#+STARTUP: content
+
+* What is it?
+A paradigm of [[file:machine_learning.org][Machine Learning]] that focuses on learning representations of data.
+*Representation Learning*'s goal is to essentially learn simpler features from data that have meaning.
+These features/representations can be used to make/solve complex decisions/problems.
+
+* Example
+Suppose you have a dataset of dogs and cats and you wish to distinguish them. A *Representation Learning* algorithm would learn simple features which may answer simpler questions like /"is there a paw?"/, /"does it have pointy ears?"/, etc. These simpler features can be used then make the decision of whether the picture is a dog or a cat.

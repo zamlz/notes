@@ -1,6 +1,9 @@
 #+TITLE: Machine Learning
 #+AUTHOR: Amlesh Sivanantham (zamlz)
 #+ROAM_ALIAS:
-#+ROAM_TAGS:
+#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-03-29 Mon 13:01]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:44:41]
+#+LAST_MODIFIED: [2021-05-23 Sun 14:05:09]
+
+* What is it
+Study of computer algorithms that improve through experience and by the use of data.

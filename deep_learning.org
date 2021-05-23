@@ -3,6 +3,7 @@
 #+ROAM_ALIAS:
 #+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-03-29 Mon 13:01]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:41:50]
+#+LAST_MODIFIED: [2021-05-23 Sun 14:00:13]
 
-Deep Learning is a Paradigm of [[file:machine_learning.org][Machine Learning]] that focuses on using Neural Networks and their variants for learning from data.
+* What is it?
+Deep Learning is a form of [[file:representation_learning.org][Representation Learning]] that focuses on using Neural Networks to learn heirarchical representations /(via hidden layers of the neural network)/ to make predictions on the data. It solves one of the typical problems with [[file:representation_learning.org][Representation Learning]], /"Which representations should be learn about our data?"/
