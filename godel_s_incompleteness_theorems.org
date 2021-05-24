@@ -1,0 +1,13 @@
+#+TITLE: Godel's Incompleteness Theorems
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-05-24 Mon 08:39]
+#+LAST_MODIFIED: [2021-05-24 Mon 08:42:37]
+#+STARTUP: content
+
+#+begin_quote
+Ironic that Godel's death was the result of a self-referential paradox: he died in order to not die
+
+   --- Based YouTube Commenter
+#+end_quote
