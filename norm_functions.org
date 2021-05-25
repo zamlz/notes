@@ -1,0 +1,13 @@
+#+TITLE: Norm Functions
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS:
+#+CREATED: [2021-05-24 Mon 19:00]
+#+LAST_MODIFIED: [2021-05-24 Mon 19:15:14]
+#+STARTUP: content
+
+Norm Functions (Norms) are functions mapping vectors to non-negative values. The norm of a vector \(x\) measures the distance from the origin to point \(x\). It must satisfy the following properties:
+
+- \(f(x) = 0 \implies x = 0\)
+- \(f(x + y) \leq f(x) + f(y)\)  (the [[file:triangle_inequality.org][Triangle Inequality]])
+- \(\forall \alpha \in \mathbb{R}, f(\alpha x) = | \alpha |f(x)\)

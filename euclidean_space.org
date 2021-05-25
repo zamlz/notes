@@ -1,9 +1,9 @@
 #+TITLE: Euclidean Space
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: "Flat Space" "Cartesian Space"
+#+ROAM_ALIAS: "Flat Space" "Cartesian Space" "Euclidean Geometry"
 #+ROAM_TAGS:
 #+CREATED: [2021-03-27 Sat 11:02]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:41:41]
+#+LAST_MODIFIED: [2021-05-24 Mon 19:12:11]
 
 
 
