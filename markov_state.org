@@ -1,9 +1,10 @@
+:PROPERTIES:
+:ID:       16356f25-0524-4786-9846-c05f3dac8d8e
+:END:
 #+TITLE: Markov State
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-04-03 Sat 20:20]
-#+LAST_MODIFIED: [2021-04-03 Sat 20:26:56]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
 
 A State is said to be Markov if the Markove property holds:
 

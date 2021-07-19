@@ -1,6 +1,8 @@
+:PROPERTIES:
+:ID:       e3aae086-d66b-4cd9-806f-d2c88944a94c
+:END:
 #+TITLE: Cross Protocol Scripting
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: COMPUTER_SECURITY
 #+CREATED: [2021-03-27 Sat 09:41]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:40:30]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
+#+filetags: COMPUTER_SECURITY

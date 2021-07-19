@@ -1,6 +1,7 @@
+:PROPERTIES:
+:ID:       44f51e88-f285-4015-8f7a-ccc271b70265
+:END:
 #+TITLE: Lisp Programming Language
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-04-04 Sun 10:15]
-#+LAST_MODIFIED: [2021-04-04 Sun 10:15:17]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:13]

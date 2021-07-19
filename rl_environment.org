@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       9e3eca4d-4109-46f9-8632-45c02dcead4e
+:ROAM_ALIASES: Environment
+:END:
 #+TITLE: RL Environment
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: Environment
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
 #+CREATED: [2021-04-03 Sat 20:49]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:12:21]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:13]
+#+filetags: ARTIFICIAL_INTELLIGENCE RL
 
 Likewise the environment at timestep \(t\) :
 - recieves action \(a_t\)

@@ -1,8 +1,9 @@
+:PROPERTIES:
+:ID:       1c9102c5-5e91-450a-ace9-e0ebdd73204f
+:END:
 #+TITLE: Zettelkasten Method
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+AUTHOR: Amlesh Sivanantham (zamlz)
 #+CREATED: [2021-03-27 Sat 00:15]
-#+LAST_MODIFIED: [2021-04-04 Sun 19:51:17]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
 
 A method of notetaking

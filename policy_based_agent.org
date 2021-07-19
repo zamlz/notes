@@ -1,8 +1,10 @@
+:PROPERTIES:
+:ID:       a4f46bf0-3bf9-4c0e-9272-82d1cbada07c
+:END:
 #+TITLE: Policy Based Agent
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-04-03 Sat 21:54]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:56:52]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: RL ARTIFICIAL_INTELLIGENCE
 
-A policy based agent is a [[file:rl_agent.org][RL Agent]] that uses a [[file:policy_function.org][Policy Function]].
+A policy based agent is a [[id:3d770134-2e93-4397-a846-227e71f2fe31][RL Agent]] that uses a [[id:f7baf9ab-82a4-4ce4-a2dd-c5a07c3e05c2][Policy Function]].

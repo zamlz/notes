@@ -1,9 +1,11 @@
+:PROPERTIES:
+:ID:       bbda86ef-fb00-4fe6-86d7-131235089a39
+:END:
 #+TITLE: Deep Learning
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-03-29 Mon 13:01]
-#+LAST_MODIFIED: [2021-05-23 Sun 14:00:13]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: ARTIFICIAL_INTELLIGENCE
 
 * What is it?
-Deep Learning is a form of [[file:representation_learning.org][Representation Learning]] that focuses on using Neural Networks to learn heirarchical representations /(via hidden layers of the neural network)/ to make predictions on the data. It solves one of the typical problems with [[file:representation_learning.org][Representation Learning]], /"Which representations should be learn about our data?"/
+Deep Learning is a form of [[id:5f6a5c06-9499-46bc-89e0-4b6c03aa14fc][Representation Learning]] that focuses on using Neural Networks to learn heirarchical representations /(via hidden layers of the neural network)/ to make predictions on the data. It solves one of the typical problems with [[id:5f6a5c06-9499-46bc-89e0-4b6c03aa14fc][Representation Learning]], /"Which representations should be learn about our data?"/

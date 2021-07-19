@@ -1,15 +1,16 @@
+:PROPERTIES:
+:ID:       d750a594-92b9-4dc4-8761-3ef60359584c
+:END:
 #+TITLE: Triangle Inequality
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-05-24 Mon 19:03]
-#+LAST_MODIFIED: [2021-05-24 Mon 19:12:17]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
 #+STARTUP: content
 
 The Triangle Inequality is a theorem that simply states that the sum of the lengths of any to sides of a triangle \(a\) and \(b\) must be greater than or equal to the final side \(c\). Formally,
 
 \[c \leq a + b\]
 
-The above is valid in [[file:euclidean_space.org][Euclidean Space]] but there is a different generalization of the theorem for other types of geometries. The Triangle Inequality in these spaces is a theorem about distances, and it written using vectors and their norms.
+The above is valid in [[id:8804817e-9ea9-4d02-856d-b983d3789770][Euclidean Space]] but there is a different generalization of the theorem for other types of geometries. The Triangle Inequality in these spaces is a theorem about distances, and it written using vectors and their norms.
 
 \[||x + y|| \leq ||x|| + ||y||\]

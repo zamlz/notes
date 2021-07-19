@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       ef099bbc-4947-416f-8426-45568b9773c3
+:ROAM_ALIASES: AI
+:END:
 #+TITLE: Artificial Intelligence
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_TAGS: COMPUTER_SCIENCE
-#+ROAM_ALIAS: AI
 #+CREATED: [2021-03-06 Sat 17:19]
-#+LAST_MODIFIED: [2021-04-04 Sun 19:53:58]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: COMPUTER_SCIENCE
 
-AI is branch of [[file:computer_science.org][Computer Science]] that focuses on buildings systems that are capable of making intelligent decisions. It's really up for debate how /intelligent/ an algorithm has to be classified as /intelligent/.
+AI is branch of [[id:d60549a6-eb6e-4e98-a944-1909e4a73a25][Computer Science]] that focuses on buildings systems that are capable of making intelligent decisions. It's really up for debate how /intelligent/ an algorithm has to be classified as /intelligent/.

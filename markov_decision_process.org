@@ -1,12 +1,14 @@
+:PROPERTIES:
+:ID:       26dba5c1-4cf0-42d0-9b33-8fcdfd7c34af
+:ROAM_ALIASES: "Fully Observable Environments" MDP
+:END:
 #+TITLE: Markov Decision Process
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: MDP "Fully Observable Environments"
-#+ROAM_TAGS:
 #+CREATED: [2021-04-03 Sat 20:33]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:48:32]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
 
-Fully Observable Environments are [[file:rl_environment.org][Environment]]s where the [[file:rl_agent.org][Agent]] is able to fully see the internal environment state /(everything)/. Formally,
+Fully Observable Environments are [[id:9e3eca4d-4109-46f9-8632-45c02dcead4e][Environment]]s where the [[id:3d770134-2e93-4397-a846-227e71f2fe31][Agent]] is able to fully see the internal environment state /(everything)/. Formally,
 
 \[O_t = S^a_t = S^e_t\]
 
-As every state is a [[file:markov_state.org][Markov State]], a Fully Observable Environment is a Markov Decision Process.
+As every state is a [[id:16356f25-0524-4786-9846-c05f3dac8d8e][Markov State]], a Fully Observable Environment is a Markov Decision Process.

@@ -1,9 +1,10 @@
+:PROPERTIES:
+:ID:       6439ccae-52f0-4d8c-a429-75b72701d498
+:END:
 #+TITLE: Godel's Incompleteness Theorems
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-05-24 Mon 08:39]
-#+LAST_MODIFIED: [2021-05-24 Mon 08:42:37]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
 #+STARTUP: content
 
 #+begin_quote

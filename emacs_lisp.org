@@ -1,12 +1,15 @@
+:PROPERTIES:
+:ID:       5bfa4fbe-86c7-40d1-aa5c-7b981d145aa9
+:ROAM_REFS: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+:ROAM_ALIASES: elisp
+:END:
 #+TITLE: Emacs Lisp
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: elisp
-#+ROAM_TAGS: SOFTWARE EMACS
-#+ROAM_KEY: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 #+CREATED: [2021-04-03 Sat 10:22]
-#+LAST_MODIFIED: [2021-04-13 Tue 08:28:55]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: SOFTWARE EMACS
 
-Elisp is a dialect of the [[file:lisp_programming_language.org][Lisp Programming Language]] that is used to create the integrated environment of [[file:../config/emacs.org][GNU/Emacs]]. It is a fully fledged programming language and is desgined to make the editor extensible to any degree.
+Elisp is a dialect of the [[id:44f51e88-f285-4015-8f7a-ccc271b70265][Lisp Programming Language]] that is used to create the integrated environment of [[id:cf447557-1f87-4a07-916a-160cfd2310cf][GNU/Emacs]]. It is a fully fledged programming language and is desgined to make the editor extensible to any degree.
 
 * Useful Resources
 - [[https://alhassy.github.io/ElispCheatSheet/][Elisp Cheat Sheet]]

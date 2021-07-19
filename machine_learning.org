@@ -1,9 +1,11 @@
+:PROPERTIES:
+:ID:       e22e7039-4545-4ae6-bab2-794b98b6651a
+:END:
 #+TITLE: Machine Learning
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-03-29 Mon 13:01]
-#+LAST_MODIFIED: [2021-05-23 Sun 14:11:21]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: ARTIFICIAL_INTELLIGENCE
 
 * What is it
-Study of computer algorithms that improve through experience and by the use of data. This branch of study falls under [[file:artificial_intelligence.org][Artificial Intelligence]].
+Study of computer algorithms that improve through experience and by the use of data. This branch of study falls under [[id:ef099bbc-4947-416f-8426-45568b9773c3][Artificial Intelligence]].

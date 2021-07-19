@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       3d219429-3c1a-4c81-b135-b2723b0f5d0e
+:ROAM_ALIASES: RL
+:END:
 #+TITLE: Reinforcement Learning
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: RL
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE RL
 #+CREATED: [2021-04-03 Sat 19:28]
-#+LAST_MODIFIED: [2021-05-23 Sun 11:55:31]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: ARTIFICIAL_INTELLIGENCE RL
 
 #+DOWNLOADED: screenshot @ 2021-04-03 22:13:22
 [[file:data/rl_agent_environment_loop.png]]
@@ -11,10 +14,10 @@
 Image taken from Wikipedia
 #+end_quote
 
-/Many of these notes were created from [[file:../bookmarks/david_silver_s_reinforcement_learning_course.org][David Silver's Reinforcement Learning Course]]/
+/Many of these notes were created from [[id:4de594f7-24f5-4de9-9a8d-9d227682a490][David Silver's Reinforcement Learning Course]]/
 
 * What is Reinforcement Learning?
-Reinforcement Learning (RL) is study of the science of decision making. The main differences of RL from other [[file:machine_learning.org][Machine Learning]] paradigms is that there is no supervisor to tell the algorithm what is right or wrong, we only have the reward. This reward signal is also not instantaneous. The other key difference is that the agent is actively changing the data that it sees (it is i.i.d.).
+Reinforcement Learning (RL) is study of the science of decision making. The main differences of RL from other [[id:e22e7039-4545-4ae6-bab2-794b98b6651a][Machine Learning]] paradigms is that there is no supervisor to tell the algorithm what is right or wrong, we only have the reward. This reward signal is also not instantaneous. The other key difference is that the agent is actively changing the data that it sees (it is i.i.d.).
 
 * Example of Reinforcement Learning Problems
 - Stunt Manoeuvers in a Helicoptor
@@ -25,8 +28,8 @@ Reinforcement Learning (RL) is study of the science of decision making. The main
 A lot of RL is generally applied to games, but it doesn't have to be. Games are generally very difficult forms of environments.
 
 * Fundamental Concepts
-- [[file:reward_signal.org][Reward Signal]]
-- [[file:rl_agent.org][RL Agent]]
-- [[file:rl_environment.org][RL Environment]]
-- [[file:markov_decision_process.org][Markov Decision Process]]
-- [[file:partially_observable_markov_decision_process.org][Partially Observable Markov Decision Process]]
+- [[id:ed78ebfa-633f-44f3-bb4f-d6c946df8386][Reward Signal]]
+- [[id:3d770134-2e93-4397-a846-227e71f2fe31][RL Agent]]
+- [[id:9e3eca4d-4109-46f9-8632-45c02dcead4e][RL Environment]]
+- [[id:26dba5c1-4cf0-42d0-9b33-8fcdfd7c34af][Markov Decision Process]]
+- [[id:5d6652cf-c352-4842-8e6a-a08d8f2051c0][Partially Observable Markov Decision Process]]

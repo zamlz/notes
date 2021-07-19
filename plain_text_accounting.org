@@ -1,6 +1,7 @@
+:PROPERTIES:
+:ID:       0746cc66-2afa-41c5-8398-91f5e286f574
+:END:
 #+TITLE: Plain Text Accounting
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-04-16 Fri 21:10]
-#+LAST_MODIFIED: [2021-04-16 Fri 21:10:19]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]

@@ -1,11 +1,14 @@
+:PROPERTIES:
+:ID:       ed78ebfa-633f-44f3-bb4f-d6c946df8386
+:ROAM_ALIASES: Reward
+:END:
 #+TITLE: Reward Signal
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: Reward
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE NEUROSCIENCE RL
 #+CREATED: [2021-04-03 Sat 20:45]
-#+LAST_MODIFIED: [2021-04-03 Sat 22:11:29]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: ARTIFICIAL_INTELLIGENCE NEUROSCIENCE RL
 
-The goal of the [[file:rl_agent.org][RL Agent]] is to get as much reward as possible. At every timestep, the [[file:rl_agent.org][RL Agent]] gets \(R_t\) as a scalar feedback signal from the [[file:rl_environment.org][Environment]] and so we wish to maximize the cumulative sum of this signal.
+The goal of the [[id:3d770134-2e93-4397-a846-227e71f2fe31][RL Agent]] is to get as much reward as possible. At every timestep, the [[id:3d770134-2e93-4397-a846-227e71f2fe31][RL Agent]] gets \(R_t\) as a scalar feedback signal from the [[id:9e3eca4d-4109-46f9-8632-45c02dcead4e][Environment]] and so we wish to maximize the cumulative sum of this signal.
 
 This is the reward hypothesis:
 

@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       f7baf9ab-82a4-4ce4-a2dd-c5a07c3e05c2
+:ROAM_ALIASES: Policy
+:END:
 #+TITLE: Policy Function
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: Policy
-#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-04-03 Sat 21:26]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:38:40]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
+#+filetags: RL ARTIFICIAL_INTELLIGENCE
 
 The Policy is mapping from states to actions that defines the agent's behaviour, formmally defined as \(a = \pi(s)\). The policy can also be stochastic:
 

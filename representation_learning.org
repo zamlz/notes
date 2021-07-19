@@ -1,13 +1,15 @@
+:PROPERTIES:
+:ID:       5f6a5c06-9499-46bc-89e0-4b6c03aa14fc
+:END:
 #+TITLE: Representation Learning
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-05-23 Sun 13:50]
-#+LAST_MODIFIED: [2021-05-23 Sun 14:00:45]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
 #+STARTUP: content
+#+filetags: ARTIFICIAL_INTELLIGENCE
 
 * What is it?
-A paradigm of [[file:machine_learning.org][Machine Learning]] that focuses on learning representations of data.
+A paradigm of [[id:e22e7039-4545-4ae6-bab2-794b98b6651a][Machine Learning]] that focuses on learning representations of data.
 *Representation Learning*'s goal is to essentially learn simpler features from data that have meaning.
 These features/representations can be used to make/solve complex decisions/problems.
 

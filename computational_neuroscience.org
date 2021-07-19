@@ -1,8 +1,9 @@
+:PROPERTIES:
+:ID:       e2b46cf9-e58f-4de7-9b52-1fd35b34b5a2
+:END:
 #+TITLE: Computational Neuroscience
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-04-18 Sun 13:29]
-#+LAST_MODIFIED: [2021-05-23 Sun 14:13:30]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
 
-Computational Neuroscience is a subfield of [[file:neuroscience.org][Neuroscience]] that focuses on modelling neuroscience using [[file:computer_science.org][Computer Science]]. There is also some focus on [[file:artificial_intelligence.org][Artificial Intelligence]] as the research areas can also focus on simulating behaviour of the brain.
+Computational Neuroscience is a subfield of [[id:8d203170-2b5a-47de-83c8-d5e9e08cbf9a][Neuroscience]] that focuses on modelling neuroscience using [[id:d60549a6-eb6e-4e98-a944-1909e4a73a25][Computer Science]]. There is also some focus on [[id:ef099bbc-4947-416f-8426-45568b9773c3][Artificial Intelligence]] as the research areas can also focus on simulating behaviour of the brain.

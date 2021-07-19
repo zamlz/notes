@@ -1,6 +1,7 @@
+:PROPERTIES:
+:ID:       4d4c27f1-d674-4b2d-a154-e72cb77c8333
+:END:
 #+TITLE: DevOps
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS:
 #+CREATED: [2021-03-29 Mon 12:39]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:44:31]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]

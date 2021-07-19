@@ -1,8 +1,10 @@
+:PROPERTIES:
+:ID:       8f2c1050-5b50-4dc2-bfe7-b03a0b38ed65
+:END:
 #+TITLE: Solar System
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: ASTRONOMY
 #+CREATED: [2021-03-27 Sat 09:44]
-#+LAST_MODIFIED: [2021-04-04 Sun 19:53:59]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: ASTRONOMY
 
-Solar system is home to many planets. One of them being [[file:planet_earth.org][Planet Earth]].
+Solar system is home to many planets. One of them being [[id:53fb46a9-8ec1-49c6-8a3d-173555bb4171][Planet Earth]].

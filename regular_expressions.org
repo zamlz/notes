@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       270c77f4-1917-4b74-b970-812c1477b8b0
+:ROAM_ALIASES: regexp
+:END:
 #+TITLE: Regular Expressions
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: regexp
-#+ROAM_TAGS: COMPUTER_SCIENCE
 #+CREATED: [2021-03-27 Sat 10:26]
-#+LAST_MODIFIED: [2021-03-30 Tue 12:39:41]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:14]
+#+filetags: COMPUTER_SCIENCE

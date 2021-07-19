@@ -1,8 +1,10 @@
+:PROPERTIES:
+:ID:       49eb8c6b-e2fa-48c0-ac12-05b7a743bce3
+:END:
 #+TITLE: Actor-Critic Agent
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-04-03 Sat 21:55]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:56:18]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: RL ARTIFICIAL_INTELLIGENCE
 
-An Actor-Critic Agent is a [[file:rl_agent.org][RL Agent]] that makes use of both a [[file:policy_function.org][Policy Function]] and [[file:value_function.org][Value Function]].
+An Actor-Critic Agent is a [[id:3d770134-2e93-4397-a846-227e71f2fe31][RL Agent]] that makes use of both a [[id:f7baf9ab-82a4-4ce4-a2dd-c5a07c3e05c2][Policy Function]] and [[id:3d1b1c4e-cc16-410a-b385-a29244afb66a][Value Function]].

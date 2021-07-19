@@ -1,10 +1,12 @@
+:PROPERTIES:
+:ID:       3d1b1c4e-cc16-410a-b385-a29244afb66a
+:END:
 #+TITLE: Value Function
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: RL ARTIFICIAL_INTELLIGENCE
 #+CREATED: [2021-04-03 Sat 21:27]
-#+LAST_MODIFIED: [2021-04-03 Sat 21:39:25]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+filetags: RL ARTIFICIAL_INTELLIGENCE
 
-The value function is a predicition of total future [[file:reward_signal.org][Reward Signal]]s. This function is used evaluate how good or bad a state in [[file:rl_environment.org][Environment]] is. It be defined as,
+The value function is a predicition of total future [[id:ed78ebfa-633f-44f3-bb4f-d6c946df8386][Reward Signal]]s. This function is used evaluate how good or bad a state in [[id:9e3eca4d-4109-46f9-8632-45c02dcead4e][Environment]] is. It be defined as,
 
 \[v_{\pi}(s) = \mathbb{E}_{\pi}[R_{t+1} + \gamma R_{t+2} + \gamma^2 R_{t+3} + \dots | S_t = s]\]

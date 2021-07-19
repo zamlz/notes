@@ -1,9 +1,11 @@
+:PROPERTIES:
+:ID:       8804817e-9ea9-4d02-856d-b983d3789770
+:ROAM_ALIASES: "Euclidean Geometry" "Cartesian Space" "Flat Space"
+:END:
 #+TITLE: Euclidean Space
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: "Flat Space" "Cartesian Space" "Euclidean Geometry"
-#+ROAM_TAGS:
 #+CREATED: [2021-03-27 Sat 11:02]
-#+LAST_MODIFIED: [2021-05-24 Mon 19:12:11]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:13]
 
 
 

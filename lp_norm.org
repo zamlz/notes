@@ -1,12 +1,15 @@
+:PROPERTIES:
+:ID:       b1838898-dc59-43c9-984d-42bc75bd922e
+:ROAM_ALIASES: "Infinite Norm" "Euclidean Norm"
+:END:
 #+TITLE: Lp Norm
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: "Euclidean Norm" "Infinite Norm"
-#+ROAM_TAGS: MATHEMATICS
 #+CREATED: [2021-05-24 Mon 18:58]
-#+LAST_MODIFIED: [2021-06-15 Tue 10:49:55]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
 #+STARTUP: content
+#+filetags: MATHEMATICS
 
-The \(L^p\) norm function is a type of [[file:norm_functions.org][Norm Functions.]]
+The \(L^p\) norm function is a type of [[id:62c09e90-3eb5-4f3b-982a-a051aba536e6][Norm Functions.]]
 It is defined as follows:
 
 For a given vector \(x \in \mathbb{R}^n\) and \(0 < p < \infty\),

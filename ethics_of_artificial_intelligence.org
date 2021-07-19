@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       19c1e457-18d8-4491-aa3e-e632a0112372
+:ROAM_ALIASES: "Ethics of AI"
+:END:
 #+TITLE: Ethics of Artificial Intelligence
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS: "Ethics of AI"
-#+ROAM_TAGS: COMPUTER_SCIENCE
 #+CREATED: [2021-03-27 Sat 00:17]
-#+LAST_MODIFIED: [2021-03-27 Sat 11:02:28]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:13]
+#+filetags: COMPUTER_SCIENCE
