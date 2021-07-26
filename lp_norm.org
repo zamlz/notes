@@ -5,7 +5,7 @@
 #+TITLE: Lp Norm
 #+AUTHOR: Amlesh Sivanantham (zamlz)
 #+CREATED: [2021-05-24 Mon 18:58]
-#+LAST_MODIFIED: [2021-07-19 Mon 09:43:25]
+#+LAST_MODIFIED: [2021-07-26 Mon 09:08:09]
 #+STARTUP: content
 #+filetags: MATHEMATICS
 
@@ -16,16 +16,25 @@ For a given vector \(x \in \mathbb{R}^n\) and \(0 < p < \infty\),
 
 \[||x||_p \ = \left( \sum^n_{i=1} |x_i |^p \right)^{\frac{1}{p}}\]
 
-* The L1-Norm
+* L1-Norm
+:PROPERTIES:
+:ID:       7a2c5c11-92af-4f99-8f41-02b9c9d7ec63
+:END:
 
 \[||x||_1 = \sum^n_{i=1} |x_i|\]
 
-* The L2-Norm
+* L2-Norm
+:PROPERTIES:
+:ID:       09896982-39b0-4553-ab15-0b332b31957f
+:END:
 The \(L^2\)-Norm is also known as the Euclidean Norm.
 
 \[||x||_2 = \sqrt{\sum^n_{i=1} |x_i|^2}\]
 
-* The L-Infinite-Norm
+* L-Infinite-Norm
+:PROPERTIES:
+:ID:       c21703a4-b77e-492b-b656-655e8c5e21f0
+:END:
 In this case, we must make use of the limit,
 
 \[||x||_{\infty} = \lim_{p \to \infty} \left(\sum^n_{i=1} |x_i|^p \right)^{\frac{1}{p}}\]
